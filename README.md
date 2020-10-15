@@ -8,4 +8,4 @@ Check it out [my work](https://bpaulino.com/work) to see what I have done and ha
 <img src="https://raw.githubusercontent.com/brunojppb/brunojppb/master/img/bruno_in_a_tech_talk.jpg" alt="Bruno showcasing the applications of GatsbyJS for rapid prototyping websites">
 
 ## My profiles on the web
-[Personal Website](https://bpaulino.com/) | [Stack overflow](https://stackoverflow.com/users/2301092/bruno-paulino?tab=profile) | [LinkedIn](https://www.linkedin.com/in/brunojppb/)
+[Website](https://bpaulino.com/) **|** [Stack overflow](https://stackoverflow.com/users/2301092/bruno-paulino?tab=profile) **|** [LinkedIn](https://www.linkedin.com/in/brunojppb/) **|** [Twitter](https://twitter.com/bpaulino0)
