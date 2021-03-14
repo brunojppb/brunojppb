@@ -1,5 +1,4 @@
-I am originally from Brazil and currently based in Vienna, Austria.  
-I am a passionate Software Engineer who loves crafting solutions that can help ease our lives and make it more fun.  
+I am a passionate Software Engineer who loves crafting solutions that can help ease our lives and make it more fun. Originally from Brazil, but currently based in Vienna, Austria.  
   
 I am mainly interested in iOS and Web development. I have been writing web applications using Scala, Ruby, React and mobile apps with Swift.  
   
