@@ -1,8 +1,6 @@
 I am a passionate Software Engineer who loves crafting solutions that can help ease our lives and make it more fun. Originally from Brazil, currently based in Vienna, Austria.  
   
-I am mainly interested in iOS and Web development. I have been writing web applications using Scala, Ruby, React and mobile apps with Swift.  
-  
-Check it out [my work](https://bpaulino.com/work) to see what I have done and have been doing.
+I am mainly interested in Web development. I have been writing web applications using Scala, Ruby, JavaScript, TypeScript and React.
 
 <img src="https://raw.githubusercontent.com/brunojppb/brunojppb/master/img/bruno_in_a_tech_talk.jpg" alt="Bruno showcasing the applications of GatsbyJS for rapid prototyping websites">
 
