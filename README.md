@@ -1,6 +1,6 @@
 I am a passionate Software Engineer who loves crafting solutions that can help ease our lives and make it more fun. Originally from Brazil, currently based in Vienna, Austria.  
   
-I am mainly interested in Web development and programming languages these days. I have been writing web applications using Scala, Elixir, JavaScript, and TypeScript. I also think React is cool.
+I am mainly interested in Web development and programming languages these days. I have been writing web applications using Rust, Elixir, JavaScript, and TypeScript. I also think React is cool.
 
 I've also created a few programming courses that are free forever, until the end of the internet. Almost 30k people have already watched them.
 
