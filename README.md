@@ -4,9 +4,9 @@ I am mainly interested in Web development and programming languages these days. 
 
 I've also created a few programming courses that are free forever, until the end of the internet. Almost 40k people have already watched them.
 
-- [React para Iniciantes (PT-BR)](https://www.udemy.com/course/react-para-iniciantes-free/)
-- [Ruby Para Iniciantes (PT-BR)](https://www.udemy.com/course/ruby-para-iniciantes/)
-- [Ruby on Rails na Prática (PT-BR)](https://www.udemy.com/course/ruby-on-rails-5-na-pratica/)
+- [React for Beginners (PT-BR)](https://www.udemy.com/course/react-para-iniciantes-free/)
+- [Ruby for Beginners (PT-BR)](https://www.udemy.com/course/ruby-para-iniciantes/)
+- [Ruby on Rails in Practice (PT-BR)](https://www.udemy.com/course/ruby-on-rails-5-na-pratica/)
 
 ## My profiles on the web
 [Website](https://bpaulino.com/) **|** [Stack overflow](https://stackoverflow.com/users/2301092/bruno-paulino?tab=profile) **|** [LinkedIn](https://www.linkedin.com/in/brunojppb/) **|** [Twitter](https://twitter.com/bpaulino0)
